@@ -1,9 +1,11 @@
-# Head-width threshold experiment
+# Code for the paper "Universal interpolation for deep residual self-attention networks", Sibylle Marcotte & Joan Bruna 2026.
+
+## Head-width threshold experiment
 
 Code accompanying Appendix M. See the appendix for the protocol and results.
 Requires Python 3.10+; experiments used Python 3.12.14 and PyTorch 2.14.0.
 
-## Install
+### Install
 
 Run inside this folder:
 
@@ -13,7 +15,7 @@ source .venv/bin/activate
 python -m pip install -r requirements.txt
 ```
 
-## Reproduce
+### Reproduce
 
 Main experiment and figures:
 
